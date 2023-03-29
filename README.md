@@ -5,4 +5,4 @@ Desafio de projeto git e github
 
 ## objetivo
 
-Bom nesse projeto eu devo organizar pastas e versionar um projeto basico para cumprir o desafio da DIO, então decidi fazer uma organização de pastas do meu semestre atual da faculdade
+Bom nesse projeto eu devo organizar diretorios e versionar um projeto basico para cumprir o desafio da DIO, então decidi fazer uma organização de pastas do meu semestre atual da faculdade
